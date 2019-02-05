@@ -1,0 +1,57 @@
+﻿.split {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  font-size: 16px;
+  display: block;
+  box-sizing: border-box;
+  margin: 0 2% 10px 0
+}
+
+.floatLeft {
+  float: left;
+  width: 35%;
+  /*border-right: 1px solid #450084;*/
+}
+
+.floatRight {
+  float: right;
+}
+
+.locationHeader {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.rowColor {
+  background-color: #B599CE;
+  /*background-color: #DACCE6;*/
+}
+
+.rowColor2 {
+  background-color: #DACCE6;
+  /*background-color: #DACCE6;*/
+}
+
+.altRowColor {
+  background-color: #CBB677;
+}
+
+.altRowColor2 {
+  background-color: #EAE1C6;
+}
+
+.headerStyle {
+  background-color: #450084;
+  font-weight: bold;
+  color: white;
+}
+
+.cbxPadding {
+  padding-right: 25%;
+}
+
+.linkColor {
+  color: #450084;
+}
